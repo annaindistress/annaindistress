@@ -24,6 +24,34 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<!--
 ## ✨ My latest projects
--->
+
+- [Frontend Quiz App](https://github.com/annaindistress/frontend-mentor-frontend-quiz-app) | [Live](https://annaindistress.github.io/frontend-mentor-frontend-quiz-app/)
+  <br />
+  Four short tests for you to assess your frontend knowledge. Build with React, useReducer and custom hooks
+- [Age calculator](https://github.com/annaindistress/frontend-mentor-age-calculator) | [Live](https://annaindistress.github.io/frontend-mentor-age-calculator/)
+  <br />
+  Calculate someone's age based on their date of birth. Build with React and useState
+- [BMI Calculator](https://github.com/annaindistress/frontend-mentor-bmi-calculator) | [Live](https://annaindistress.github.io/frontend-mentor-bmi-calculator/)
+  <br />
+  On this website, you can calculate your BMI based on your weight and height, discover your ideal weight, and explore methods to achieve and maintain this weight. Build with React and useState
+- [Space Tourism Website](https://github.com/annaindistress/frontend-mentor-space-tourism-website) | [Live](https://annaindistress.github.io/frontend-mentor-space-tourism-website/)
+  <br />
+  Website for space tourism program. Build with React and React Router
+- [Clock App](https://github.com/annaindistress/frontend-mentor-clock-app) | [Live](https://annaindistress.github.io/frontend-mentor-clock-app/)
+  <br />
+  Users can see a random quote, along with the time and location based on their current IP address. Build with JavaScript, Quotable API, IP Geolocation API and WorldTimeAPI
+- [Advice Generator App](https://github.com/annaindistress/frontend-mentor-advice-generator-app) | [Live](https://annaindistress.github.io/frontend-mentor-advice-generator-app/)
+  <br />
+  Users can see a new piece of advice by clicking the dice icon. Build with JavaScript and Advice Slip API
+- [Job Listings with Filtering](https://github.com/annaindistress/frontend-mentor-job-listings) | [Live](https://annaindistress.github.io/frontend-mentor-job-listings/)
+  <br />
+  Users can view jobs and filter them based on categories. Build with JavaScript and MVC framework
+- [Todo App](https://github.com/annaindistress/frontend-mentor-todo-app) | [Live](https://annaindistress.github.io/frontend-mentor-todo-app/)
+  <br />
+  Todo app featuring drag-and-drop functionality and a filter option based on completion status. Build with JavaScript and OOP principles
+- [Tip Calculator App](https://github.com/annaindistress/frontend-mentor-tip-calculator-app) | [Live](https://annaindistress.github.io/frontend-mentor-tip-calculator-app/)
+  <br />
+  Calculate tips and payment per person based on the bill amount and the tip percentage. Build with JavaScript
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annaindistress)](https://github.com/anuraghazra/github-readme-stats)
