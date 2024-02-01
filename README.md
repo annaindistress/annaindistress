@@ -27,6 +27,9 @@
 
 ## ✨ My latest projects
 
+- [Galleria slideshow site](https://github.com/annaindistress/frontend-mentor-galleria-slideshow) | [Live](https://annaindistress.github.io/frontend-mentor-galleria-slideshow/)
+  <br />
+  Art gallery slideshow project with the masonry layout, slideshow logic, and lightbox view. Build with React, useReducer and Context API
 - [Frontend Quiz App](https://github.com/annaindistress/frontend-mentor-frontend-quiz-app) | [Live](https://annaindistress.github.io/frontend-mentor-frontend-quiz-app/)
   <br />
   Four short tests for you to assess your frontend knowledge. Build with React, useReducer and custom hooks
