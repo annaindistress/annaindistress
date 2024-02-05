@@ -27,6 +27,9 @@
 
 ## ✨ My latest projects
 
+- [Dictionary web app](https://github.com/annaindistress/frontend-mentor-dictionary-web-app) | [Live](https://annaindistress.github.io/frontend-mentor-dictionary-web-app/)
+  <br />
+  Dictionary web app with color themes and font selection. Build with React, useReducer, Context API and Dictionary API
 - [Galleria slideshow site](https://github.com/annaindistress/frontend-mentor-galleria-slideshow) | [Live](https://annaindistress.github.io/frontend-mentor-galleria-slideshow/)
   <br />
   Art gallery slideshow project with the masonry layout, slideshow logic, and lightbox view. Build with React, useReducer and Context API
