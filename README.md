@@ -27,6 +27,9 @@
 
 ## ✨ My latest projects
 
+- [Coffeeroasters subscription](https://github.com/annaindistress/frontend-mentor-coffeeroasters-subscription) | [Live](https://annaindistress.github.io/frontend-mentor-coffeeroasters-subscription/)
+  <br />
+  3-page coffee subscription site. Build with React, React Router, Redux and Framer Motion
 - [Dictionary web app](https://github.com/annaindistress/frontend-mentor-dictionary-web-app) | [Live](https://annaindistress.github.io/frontend-mentor-dictionary-web-app/)
   <br />
   Dictionary web app with color themes and font selection. Build with React, useReducer, Context API and Dictionary API
