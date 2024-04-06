@@ -11,6 +11,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -28,9 +29,12 @@
 
 ## ✨ My latest projects
 
+- [Interactive comments section](https://github.com/annaindistress/frontend-mentor-interactive-comments-section) | [Live](https://annaindistress.github.io/frontend-mentor-interactive-comments-section/)
+  <br />
+  An interactive comment section equipped with functionalities for creating, viewing, modifying, and deleting comments and replies, alongside options for upvoting and downvoting comments. Build with React, TypeScript and CSS Modules
 - [Coffeeroasters subscription](https://github.com/annaindistress/frontend-mentor-coffeeroasters-subscription) | [Live](https://annaindistress.github.io/frontend-mentor-coffeeroasters-subscription/)
   <br />
-  3-page coffee subscription site. Build with React, React Router, Redux and Framer Motion
+  3-page website dedicated to coffee subscriptions with order creation functionality. Build with React, React Router, Redux and Framer Motion
 - [Dictionary web app](https://github.com/annaindistress/frontend-mentor-dictionary-web-app) | [Live](https://annaindistress.github.io/frontend-mentor-dictionary-web-app/)
   <br />
   Dictionary web app with color themes and font selection. Build with React, useReducer, Context API and Dictionary API
