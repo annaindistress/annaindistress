@@ -10,6 +10,7 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,6 +30,9 @@
 
 ## ✨ My latest projects
 
+- [Shortly](https://github.com/annaindistress/frontend-mentor-shortly) | [Live](https://frontend-mentor-shortly-kappa.vercel.app/)
+  <br />
+  Landing page integrated with the [TinyURL API](https://tinyurl.com/app). Build with Next.js, TypeScript, Tailwind CSS and LocalStorage
 - [Interactive comments section](https://github.com/annaindistress/frontend-mentor-interactive-comments-section) | [Live](https://annaindistress.github.io/frontend-mentor-interactive-comments-section/)
   <br />
   An interactive comment section equipped with functionalities for creating, viewing, modifying, and deleting comments and replies, alongside options for upvoting and downvoting comments. Build with React, TypeScript and CSS Modules
